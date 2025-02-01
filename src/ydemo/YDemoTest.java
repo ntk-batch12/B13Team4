@@ -6,4 +6,8 @@ public class YDemoTest {
 		System.out.println("Team 4");
 	}
 	
+	public void myName() {
+		System.out.println("David Avila");
+	}
+	
 }
