@@ -18,13 +18,11 @@ public class YDemoTest {
 	public void getInfo() {
 		System.out.println("Brett");
 	}
-	// add a comment 2
-
-	// best work team
-
-	// Just a comment to pull
-
-	// Noor your code can be below
+	
+	 // Brett1: Prints a greeting message
+    public void greet() {
+        System.out.println("Hello! Welcome to Java programming.");
+    }
 
 	public void subtract(int y, int z) {
 		System.out.println(y - z);
