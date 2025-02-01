@@ -48,6 +48,12 @@ public class YDemoTest {
 		
 		}
 	
+	  // Brett2: Displays the sum of two numbers
+    public void displaySum(int a, int b) {
+        int sum = a + b;
+        System.out.println("The sum is: " + sum);
+    }
+	
 
 	
 	
