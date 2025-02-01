@@ -56,6 +56,11 @@ public class YDemoTest {
     //Noor's 3rd push
     char grade = 'A';
     System.out.println(grade);
+    
+    //David's second push
+    int age = 32;
+    System.out.println(age);
+   
     		
 	
 
