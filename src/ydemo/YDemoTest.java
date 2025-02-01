@@ -24,4 +24,9 @@ public class YDemoTest {
 	
 	//Noor your code can be below
 	
+
+ public void subtract(int y,int z) {
+	 System.out.println(y-z);
+
+}
 }
