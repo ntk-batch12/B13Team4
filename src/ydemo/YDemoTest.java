@@ -52,7 +52,11 @@ public class YDemoTest {
     public void displaySum(int a, int b) {
         int sum = a + b;
         System.out.println("The sum is: " + sum);
-    }
+    
+    //Noor's 3rd push
+    char grade = 'A';
+    System.out.println(grade);
+    		
 	
 
 	
@@ -69,7 +73,7 @@ public class YDemoTest {
 	
 	
 	
-	
+    }	
 	
 	
 }
