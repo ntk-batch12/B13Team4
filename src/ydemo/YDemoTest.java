@@ -29,4 +29,7 @@ public class YDemoTest {
 	 System.out.println(y-z);
 
 }
+ public void divide(int a , int b) {
+	 System.out.println(a/b);
+ }
 }
