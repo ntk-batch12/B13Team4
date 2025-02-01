@@ -9,7 +9,11 @@ public class YDemoTest {
 	public void myName() {
 		System.out.println("David Avila");
 	}
-
+	public void getInfo(){
+		System.out.println("Brett");
+	}
+	
+	
 	//Just a comment to pull
 	
 	//Noor your code can be below
