@@ -37,6 +37,14 @@ public class YDemoTest {
 		System.out.println("This is my first push Team4");	
 		
 	}
+	public void multiply(int d,int e) {
+		System.out.println(d*e);
+		//noor second push
+	
+		
+	}
+	
+
 	
 	
 	
