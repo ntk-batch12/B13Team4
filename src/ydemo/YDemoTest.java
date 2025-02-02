@@ -79,6 +79,13 @@ public class YDemoTest {
     
     //David 3
     final int finalVariable = 100;
-	
+
+    //Rafeef 4
+    public  void displayForLoop() {
+    	
+    for(int i = 0; i<0 ; i++) {
+    	System.out.println(i);
+    }
+    }
 	
 }
