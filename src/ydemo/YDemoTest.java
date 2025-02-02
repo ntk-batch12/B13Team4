@@ -5,10 +5,12 @@ public class YDemoTest {
 	public static void main(String[] args) {
 		System.out.println("Team 4");
 		System.out.println("Team4IsTheBest");
+		System.out.println("David was here this is my 4th push !!");
 	}
 
 	public void add(int a, int b) {
 		System.out.println(a + b);
+		System.out.println("David was here this is my 4th push !!");
 	}
 
 	public void myName() {
@@ -17,35 +19,40 @@ public class YDemoTest {
 
 	public void getInfo() {
 		System.out.println("Brett");
+		System.out.println("David was here this is my 4th push !!");
 	}
 	
 	 // Brett1: Prints a greeting message
     public void greet() {
         System.out.println("Hello! Welcome to Java programming.");
+        System.out.println("David was here this is my 4th push !!");
     }
 
 	public void subtract(int y, int z) {
 		System.out.println(y - z);
+		System.out.println("David was here this is my 4th push !!");
 
 	}
 
 	public void divide(int a, int b) {
 		System.out.println(a / b);
+		System.out.println("David was here this is my 4th push !!");
 	}
 	
 	public void myFirstPush() {
 		System.out.println("This is my first push Team4");	
-		
+		System.out.println("David was here this is my 4th push !!");
 	}
 	public void multiply(int d,int e) {
 		System.out.println(d*e);
+		System.out.println("David was here this is my 4th push !!");
 		//noor second push
 	
 		
 	}
 	public void mySecondPush() {
 		System.out.println("Rafeef's second push !!");
-		
+		System.out.println("David was here this is my 4th push !!");
 		}
 	
 	  // Brett2: Displays the sum of two numbers
@@ -65,6 +72,7 @@ public class YDemoTest {
     
     String name = "Team4";
     System.out.println(name);  
+    System.out.println("David was here this is my 4th push !!");
  }
     
     // Brett3: Prints an array of integers
@@ -72,6 +80,7 @@ public class YDemoTest {
         System.out.print("Array elements: ");
         for (int num : arr) {
             System.out.print(num + " ");
+            System.out.println("David was here this is my 4th push !!");
         }
         System.out.println();
     }	
@@ -85,6 +94,7 @@ public class YDemoTest {
             //noor fourth push
         String carName="Volov";
         System.out.println("Volvo");
+        System.out.println("David was here this is my 4th push !!");
             
         }
     
