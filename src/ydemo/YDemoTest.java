@@ -74,18 +74,13 @@ public class YDemoTest {
             System.out.print(num + " ");
         }
         System.out.println();
-
     }	
     
-    //David 3
-    final int finalVariable = 100;
-
-    //Rafeef 4
-    public  void displayForLoop() {
-    	
-    for(int i = 0; i<0 ; i++) {
-    	System.out.println(i);
+    // Brett4: Shows a countdown from a given number
+    public void countdown(int start) {
+        System.out.println("Countdown:");
+        for (int i = start; i >= 0; i--) {
+            System.out.println(i);
+        }
     }
-    }
-	
 }
