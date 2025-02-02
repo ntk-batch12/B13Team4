@@ -87,5 +87,12 @@ public class YDemoTest {
         System.out.println("Volvo");
             
         }
+    
+    
+    public void push() {
+    	System.out.println("This is my 3rd Push !!");
+    }
+    
+    
     }
 
